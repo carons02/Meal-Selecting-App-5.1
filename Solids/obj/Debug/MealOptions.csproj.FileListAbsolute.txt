@@ -1,0 +1,6 @@
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\bin\Debug\Solids.dll
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\bin\Debug\Solids.pdb
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\obj\Debug\MealOptions.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\obj\Debug\MealOptions.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\obj\Debug\Solids.dll
+C:\Users\My PC\Desktop\MS539\Food Selector\Solids\obj\Debug\Solids.pdb
